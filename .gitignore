@@ -1,0 +1,21 @@
+# Power BI
+*.pbip
+*.pbitool.json
+
+# Excel
+~$*
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code or text editors
+.vscode/
+*.code-workspace
+
+# OS-specific
+ehthumbs.db
+Icon?
