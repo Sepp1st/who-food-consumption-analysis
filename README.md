@@ -33,25 +33,25 @@ I find that it is very important to practice your skills after learning them. On
   <img src="images/Percentage_male.png" alt="Male" width="45%" />
   <img src="images/Percentage_female.png" alt="Female" width="45%" />
 </span>
-<img src="images/Meat_consumption_comparison.png" alt="Meat_Egg" width="900" />
+<img src="images/Meat_consumption_comparison.png" alt="Meat_Egg" width="90%" />
 
 2. Testing for Correlated relationships between Food Groups was not too hard with the help of Analysis ToolPak Add-in, more specifically Regression and Correlation.
 
-<img src="images/Correlation_foods.png" alt="Food_Correlation" width="900" /> 
+<img src="images/Correlation_foods.png" alt="Food_Correlation" width="90%" /> 
 
 > [!NOTE] I believe there exists a possible positive correlation between Milk & Dairy and Cheese Consumption, especially with the outlier excluded (Data from Pakistan from 2016). Let's say that I am happy with the tested "hypothesis".
 
-<img src="images/Modified_cheese_correlation.png" alt="Cheese" width="900" />
+<img src="images/Modified_cheese_correlation.png" alt="Cheese" width="90%" />
 
 3. My last hypothesis suggests that there might be a negative correlation between how _diverse_ the cuisine is and how much _each_ type of food was consumed in that region (at the time of the survey).
 
-<img src="images/Food_diversity.png" alt="Food-Diversity" width="900" />
+<img src="images/Food_diversity.png" alt="Food-Diversity" width="90%" />
 
 >Although the correlation wasn't exactly __strong__, the relationship was most likely not due to chance.
 
 4. Lastly, an interesting finding which caught me by surprise, being the fact that __Infants & Toddlers__ consumed the __Highest__ Amount of Food among the Age Groups after being __Normalized__ to Bodyweight.
 
-<img src="images/Normalized_vs_Absolute.png" alt="Normalized_Absolute" width="900" />
+<img src="images/Normalized_vs_Absolute.png" alt="Normalized_Absolute" width="90%" />
 
 5. Let's not talk about some of the _unexpected_  analyses, such as:
 - People who consume more rice don't necessarily consume more herbs
