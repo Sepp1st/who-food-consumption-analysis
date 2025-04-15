@@ -20,38 +20,38 @@ I find that it is very important to practice your skills after learning them. On
 - Utilise Power Query to process messy data, creating a cleaner version known as Working Data
 - Make good use of Power Pivot to create useful measures and its superior speed and support for Pivot Tables and Charts
 - Excel only: 
-1. Advanced Data Analysis tools, specifically Regression and Correlation 
-2. Beginner friendly Custom Data and Interface manipulation
+  1. Advanced Data Analysis tools, specifically Regression and Correlation 
+  2. Beginner friendly Custom Data and Interface manipulation
 - Power BI only:
-1. Optimized tools developed for Data Visualisation. For instance, automatically showing filters and visualisation stylings.
-2. Convenient synchronised interactions between visuals.
+  1. Optimized tools developed for Data Visualisation. For instance, automatically showing filters and visualisation stylings.
+  2. Convenient synchronised interactions between visuals.
 
 ## Key Findings
 1. In the age group spanning from 15-74 exists not only a higher percentage of Males consuming Eggs and Meat but also an Average Consumption of these Food Froups of around 2x as much as Females.
 
 <span style="display: inline-block;">
-  <img src="images/Percentage_male.png" alt="Male" width="500" />
-  <img src="images/Percentage_female.png" alt="Female" width="500" />
+  <img src="images/Percentage_male.png" alt="Male" width="45%" />
+  <img src="images/Percentage_female.png" alt="Female" width="45%" />
 </span>
-<img src="images/Meat_consumption_comparison.png" alt="Meat_Egg" width="1000" />
+<img src="images/Meat_consumption_comparison.png" alt="Meat_Egg" width="900" />
 
 2. Testing for Correlated relationships between Food Groups was not too hard with the help of Analysis ToolPak Add-in, more specifically Regression and Correlation.
 
-<img src="images/Correlation_foods.png" alt="Food_Correlation" width="1000" /> 
+<img src="images/Correlation_foods.png" alt="Food_Correlation" width="900" /> 
 
 > [!NOTE] I believe there exists a possible positive correlation between Milk & Dairy and Cheese Consumption, especially with the outlier excluded (Data from Pakistan from 2016). Let's say that I am happy with the tested "hypothesis".
 
-<img src="images/Modified_cheese_correlation.png" alt="Cheese" width="1000" />
+<img src="images/Modified_cheese_correlation.png" alt="Cheese" width="900" />
 
 3. My last hypothesis suggests that there might be a negative correlation between how _diverse_ the cuisine is and how much _each_ type of food was consumed in that region (at the time of the survey).
 
-<img src="images/Food_diversity.png" alt="Food-Diversity" width="1000" />
+<img src="images/Food_diversity.png" alt="Food-Diversity" width="900" />
 
 >Although the correlation wasn't exactly __strong__, the relationship was most likely not due to chance.
 
-4. Lastly, an interesting finding which caught me by surprise, being the fact that __Infants & Toddlers__ consumed the __Highest__ Amount of Food among the Age Groups after __Normalization__.
+4. Lastly, an interesting finding which caught me by surprise, being the fact that __Infants & Toddlers__ consumed the __Highest__ Amount of Food among the Age Groups after being __Normalized__ to Bodyweight.
 
-<img src="images/Normalized_vs_Absolute.png" alt="Normalized_Absolute" width="1000" />
+<img src="images/Normalized_vs_Absolute.png" alt="Normalized_Absolute" width="900" />
 
 5. Let's not talk about some of the _unexpected_  analyses, such as:
 - People who consume more rice don't necessarily consume more herbs
