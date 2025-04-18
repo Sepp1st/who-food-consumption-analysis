@@ -39,7 +39,8 @@ I find that it is very important to practice your skills after learning them. On
 
 <img src="images/Correlation_foods.png" alt="Food_Correlation" width="90%" /> 
 
-> [!NOTE] I believe there exists a possible positive correlation between Milk & Dairy and Cheese Consumption, especially with the outlier excluded (Data from Pakistan from 2016). Let's say that I am happy with the tested "hypothesis".
+> [!NOTE]
+> I believe there exists a possible positive correlation between Milk & Dairy and Cheese Consumption, especially with the outlier excluded (Data from Pakistan from 2016). Let's say that I am happy with the tested "hypothesis".
 
 <img src="images/Modified_cheese_correlation.png" alt="Cheese" width="90%" />
 
@@ -67,7 +68,8 @@ I find that it is very important to practice your skills after learning them. On
 - Right-click a sheet at the lower left corner and choose Unhide the Working Sheets if you really want to get into the weeds.
 - Feel free to open Power Query and Power Pivot.
 
->[!WARNING] Sheets are currently Protected to avoid misuse. From the Ribbon on top, choose Review and then Unprotect Sheet as you wish to edit.
+>[!WARNING]
+>Sheets are currently Protected to avoid misuse. From the Ribbon on top, choose Review and then Unprotect Sheet as you wish to edit.
 
 2. Power BI file:
 - Again, feel free to play around with Power Query by choosing "Transform Data" in "Home" or the equivalent to Excel's Power Pivot which is the "Table View" (Table icon at the left side) tab itself.
